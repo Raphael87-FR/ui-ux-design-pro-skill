@@ -19,7 +19,7 @@
   "dependencies": {
     "@orama/orama": "^3.1.18",
     "@orama/stemmers": "^3.1.18",
-    "cac": "^7.0.1",
+    "cac": "^7.1.0",
     "chalk": "^6.0.1",
     "csv-parse": "^7.0.3",
     "glob": "^13.0.6"
